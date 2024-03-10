@@ -1,0 +1,15 @@
+.text-center {
+  text-align: center;
+}
+
+.drawer-option {
+  padding: 16px;
+}
+
+body{
+  background-color: #2b2b2b;
+}
+
+.mdl-layout .mdl-layout__header {
+  background-color: #205e34   !important;
+}
